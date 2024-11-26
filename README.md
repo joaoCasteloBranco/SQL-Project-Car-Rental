@@ -5,7 +5,7 @@ The project will build a database responsible for managing data for a company in
 
 The database **dbRentalcar.db** was used only for testing purposes and will not be included in the repository.
 
-### Database Structure
+## Database Structure
 
 The `.sql` files contain the necessary instructions to create and populate the database tables. To set up your own local database, you can execute the SQL scripts available in this repository.
 
